@@ -1,5 +1,5 @@
-
-
+原作者链接：https://github.com/hss01248/DialogUtil
+修复了一下点击返回键和外界依然会取消的小bug
 
 # DialogUtil
 material风格(v7支持包中的)，ios风格，传入context构建，可在任意界面弹出，以及dialog样式的activity(todo)
